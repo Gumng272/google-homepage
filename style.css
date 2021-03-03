@@ -1,0 +1,35 @@
+.header {
+    display: flex;
+    align-items: center;
+    padding: 6px;
+}
+
+.hicon {
+    margin-left: 15px;
+}
+
+.header2 {
+    float: right;
+    padding-left: 32px;
+}
+
+.hicon2 {
+    display: inline-block;
+    line-height: 24px;
+    vertical-align: middle;
+}
+
+.hicon2-si {
+    font-weight: 500;
+    font-size: 14px;
+    letter-spacing: .25px;
+    line-height: 16px;
+    margin-right: 8px;
+    text-align: center;
+    vertical-align: middle;
+    border-radius: 4px;
+    padding: 9px 15px;
+    min-width: 80px;
+    background: #1a73e8;
+    border: 1px solid transparent;
+}
